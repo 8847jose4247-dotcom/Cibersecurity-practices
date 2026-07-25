@@ -28,16 +28,8 @@ I believe in continuous learning and enjoy solving technical challenges through 
 
 | Skill | Associated Project |
 |-------|--------------------|
-| Networking Fundamentals | [Basic Network Configuration](./Cisco-Packet-Tracer/01-Basic-Network/) |
-| IPv4 Addressing | [IPv4 Addressing Lab](./Cisco-Packet-Tracer/02-IPv4-Addressing/) |
-| Switching | [Basic Switch Configuration](./Cisco-Packet-Tracer/03-Switching/) |
-| VLAN Configuration | [VLAN Lab](./Cisco-Packet-Tracer/04-VLANs/) |
-| Inter-VLAN Routing | [Router-on-a-Stick Lab](./Cisco-Packet-Tracer/05-Inter-VLAN-Routing/) |
-| Static Routing | [Static Routing Lab](./Cisco-Packet-Tracer/06-Static-Routing/) |
-| ACL Configuration | [Access Control Lists Lab](./Cisco-Packet-Tracer/07-ACLs/) |
-| DHCP Configuration | [DHCP Server Lab](./Cisco-Packet-Tracer/08-DHCP/) |
-| Network Troubleshooting | [Troubleshooting Lab](./Cisco-Packet-Tracer/09-Troubleshooting/) |
-| Network Documentation | [Network Documentation Examples](./Cisco-Packet-Tracer/) |
+| Basic Switch Configuration | [Basic Switch Configuration](./Cisco-Packet-Tracer/01-Basic-Switch-Configuration/) |
+
 
 ---
 
