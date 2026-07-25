@@ -14,7 +14,9 @@ In this activity, you will first perform basic switch configurations. Then you w
 
 ## Perform SVI Configuration on S1 and S2
 #   Step 1: Configure S1 with a hostname#  
-![Configure ip address](images/configure-ip-address.png)
+![Configure ip address](images/configure-ip-address-S1.png)
+
+#Enter the privileged EXEC mode using the "enable" command, to configure the Switch 1 indicated as "S1" on the image previously provided, with the correct IP address indicated on the Address table.
 
 ## Switch Configuration
 
