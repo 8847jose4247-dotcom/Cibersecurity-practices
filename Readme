@@ -1,42 +1,122 @@
-Hello there!
-My name is Jose, i'm a professional with more than 4 years of experience working on medical data analysis and documentation review, but now i'm turning my carrer into the world of cybersecurity.
-I'll let you my Linkedin profile over here, if You want to go and check it out.
-## 📫 Connect with me
+# 👋 Hello there!
 
-- 💼 LinkedIn: [José Enrique Vivas Viales](https://www.linkedin.com/in/jose-enrique-vivas-viales-a21a731b7/)
+My name is **José Enrique Vivas Viales**.
 
-#Objectives
-My passion for technology, and computer science, have bringed me to the world of cyersegurity, where i hope to improve myself as an excellent GRC Analyst.
+I am a detail-oriented professional with over **4 years of experience** in medical insurance operations, documentation review, compliance, and data analysis. Throughout my career, I have developed strong analytical, problem-solving, and process improvement skills while working in highly regulated environments.
 
-### Skills
-[Provide skills and associated projects. Make sure to hyperlink the project]
+Currently, I am transitioning my career into **Cybersecurity**, with a strong interest in **Governance, Risk, and Compliance (GRC)**. I am continuously expanding my knowledge through hands-on labs, networking projects, and industry certifications.
 
-| Skill                                            |Associated project       |
-|----------------------------------------------------------------------------|
-| [Project 1]                                      | (Link to the project)   |
-| [Project 2]                                      | (Link to the project)   |
-| [Project 3]                                      | (Link to the project)   |
-| [Project 4]                                      | (Link to the project)   |
-| [Project 5]                                      | (Link to the project)   |
-| [Project 5]                                      | (Link to the project)   |
-| [Project 6]                                      | (Link to the project)   |
-| [Project 7]                                      | (Link to the project)   |
-| [Project 8]                                      | (Link to the project)   |
-| [Project 9]                                      | (Link to the project)   |
-| [Project 10]                                     | (Link to the project)   |
+---
 
-### Tools
-[Provide the tools or app you used to managed and create your projects]
+# 📫 Connect with Me
 
+- 💼 **LinkedIn:** [José Enrique Vivas Viales](https://www.linkedin.com/in/jose-enrique-vivas-viales-a21a731b7/)
 
+---
 
+# 🎯 Career Objective
 
-### Certifications
-[Provide the certifications you have, use Chatgpt to personalize the link]
+My passion for technology and information security inspired me to pursue a career in cybersecurity.
 
+My goal is to become a **Governance, Risk, and Compliance (GRC) Analyst**, helping organizations strengthen their security posture by implementing security controls, assessing risks, ensuring regulatory compliance, and continuously improving security processes.
 
-### Project
-[Just write the projects you made, like ping X pc to Y pc]
+I believe in continuous learning and enjoy solving technical challenges through practical, hands-on experience.
 
+---
 
+# 💻 Technical Skills
 
+| Skill | Associated Project |
+|-------|--------------------|
+| Networking Fundamentals | [Basic Network Configuration](./Cisco-Packet-Tracer/01-Basic-Network/) |
+| IPv4 Addressing | [IPv4 Addressing Lab](./Cisco-Packet-Tracer/02-IPv4-Addressing/) |
+| Switching | [Basic Switch Configuration](./Cisco-Packet-Tracer/03-Switching/) |
+| VLAN Configuration | [VLAN Lab](./Cisco-Packet-Tracer/04-VLANs/) |
+| Inter-VLAN Routing | [Router-on-a-Stick Lab](./Cisco-Packet-Tracer/05-Inter-VLAN-Routing/) |
+| Static Routing | [Static Routing Lab](./Cisco-Packet-Tracer/06-Static-Routing/) |
+| ACL Configuration | [Access Control Lists Lab](./Cisco-Packet-Tracer/07-ACLs/) |
+| DHCP Configuration | [DHCP Server Lab](./Cisco-Packet-Tracer/08-DHCP/) |
+| Network Troubleshooting | [Troubleshooting Lab](./Cisco-Packet-Tracer/09-Troubleshooting/) |
+| Network Documentation | [Network Documentation Examples](./Cisco-Packet-Tracer/) |
+
+---
+
+# 🛠️ Tools & Technologies
+
+- Cisco Packet Tracer
+- Cisco IOS
+- Wireshark *(Coming Soon)*
+- Kali Linux *(Coming Soon)*
+- Ubuntu Linux
+- Windows 10 / Windows 11
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+# 📜 Certifications
+
+| Certification | Status |
+|--------------|--------|
+| Cisco Junior Cybersecurity Analyst Career Path | In Progress |
+| CompTIA Security+ | Planned |
+| ISC2 Certified in Cybersecurity (CC) | Planned |
+
+---
+
+# 📂 Projects
+
+## Cisco Packet Tracer Labs
+
+These projects demonstrate my practical networking knowledge while completing the Cisco Networking Academy curriculum.
+
+### ✔ Basic Network Configuration
+- Configured PCs and switches
+- Assigned IPv4 addresses
+- Verified connectivity using ICMP
+
+### ✔ VLAN Configuration
+- Created VLANs
+- Assigned switch ports
+- Configured trunk links
+- Verified VLAN communication
+
+### ✔ Static Routing
+- Configured routers
+- Added static routes
+- Verified end-to-end connectivity
+
+### ✔ DHCP Configuration
+- Configured DHCP pools
+- Assigned automatic IP addresses
+- Verified DHCP leases
+
+### ✔ Access Control Lists (ACL)
+- Implemented Standard ACLs
+- Restricted network traffic
+- Tested permitted and denied connections
+
+### ✔ Network Troubleshooting
+- Diagnosed connectivity issues
+- Corrected IP addressing errors
+- Fixed VLAN misconfigurations
+- Restored communication
+
+---
+
+# 🚀 Currently Learning
+
+- Cisco Networking
+- Network Security
+- Linux Fundamentals
+- Security Operations
+- Governance, Risk & Compliance (GRC)
+- Security Frameworks
+- Risk Management
+- Compliance Fundamentals
+
+---
+
+Thank you for visiting my GitHub profile!
+Feel free to explore my projects and connect with me on LinkedIn.
