@@ -30,10 +30,18 @@ In this activity, you will first perform basic switch configurations. Then you w
 #  Step 4:  Check connection status of S2
 ![Connection status S2](images/Check-connection-status-S2.png)
 
-
+#  Vertification
 
 #  Step 5: Ping PC1 from S2 to verify the connection is working correctly
 ![Ping test](images/Check-ping-S2-to-PC1.png)
 
+-----------------------------------------------------------------------------
+
+## What I Learned
+
+- Initial switch configuration
+- Secure device access
+- Connectivity verification
+- Basic troubleshooting
 
 
