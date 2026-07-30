@@ -29,6 +29,7 @@ I believe in continuous learning and enjoy solving technical challenges through 
 | Skill | Associated Project |
 |------|---------------------|
 | Networking Devices and Initial Configuration | [Basic Switch Configuration](./Cisco-Packet-Tracer/01-Basic-Switch-Configuration/) |
+| Networking Devices and Initial Configuration | [Troubleshoot Default Gateway](./Cisco-Packet-Tracer/01-Basic-Switch-Configuration/) |
 
 
 ---
