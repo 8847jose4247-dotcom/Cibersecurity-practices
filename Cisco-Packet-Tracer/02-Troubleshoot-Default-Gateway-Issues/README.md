@@ -43,6 +43,25 @@ Also ping PC2 from PC1 to check the connection is now working properly
 
   ![Ping PC2 from PC1](Images/05-Ping-PC2.png)
 
+For the connection issue from PC1 to PC4, I verify the PC4 IP configuration info and discovered the Default Gateway was completed incorrectly, so I update this info according to the info provided on the Adresses table.
+
+  ![Solution PC4](Images/06-Solution-PC4.png)
+
+Then I verified the connection between PC1 and PC4 to check the PC4 issue was solved successfully.
+
+  ![Ping PC4 from PC1](Images/07-Ping-PC4.png)
+
+As you can see the connection issue was fixed correctly.
+
+
+#  What did I learn?
+
+I practice how to identify different connection related issues as a wrong IP address or an incorrect Default Gateway and determine a solution to ensure a proper connection between every device on the network. Also, I learn how to document the process and compare how the network can change applying different configurations.
+I also put in practice the following habilities:
+-  Basic Troubleshooting
+-  Connectivity Verification
+-  IP address Configuration
+
 
   
 
