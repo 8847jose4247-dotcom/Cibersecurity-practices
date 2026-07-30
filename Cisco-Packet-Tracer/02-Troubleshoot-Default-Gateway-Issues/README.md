@@ -9,9 +9,13 @@ Part 2: Implement, Verify, and Document Solutions.
   #  Resources
 -----------------------------------------------------------
 Addresses Table
+
+
   ![Addresses Table](Images/01-Address-table.png)
 
 Network connections
+
+
   ![Network connections](Images/02-Network-connections.png)
   
 ------------------------------------------------------------
@@ -33,7 +37,7 @@ I apply the "ping" command multiple times to check the connection from PC1 to th
 On this time only the connection from PC1 to PC2 and connection from PC1 to PC4 failed, for PC1 to PC2 the problem was related to a wrong IP address for PC1.
 So I update the IP information with the correct IP address according to the Addresses table information. 
 
-  ![IP address updated PC1](Images/04-IP-address-PC1)
+  ![IP address updated PC1](Images/04-IP-address-PC1.png)
   
 
 
