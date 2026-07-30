@@ -29,7 +29,7 @@ I believe in continuous learning and enjoy solving technical challenges through 
 | Skill | Associated Project |
 |------|---------------------|
 | Networking Devices and Initial Configuration | [Basic Switch Configuration](./Cisco-Packet-Tracer/01-Basic-Switch-Configuration/) |
-| Networking Devices and Initial Configuration | [Troubleshoot Default Gateway](./Cisco-Packet-Tracer/01-Basic-Switch-Configuration/) |
+| Networking Devices and Initial Configuration | [Troubleshoot Default Gateway](./Cisco-Packet-Tracer/02-Troubleshoot-Default-Gateway-Issues/) |
 
 
 ---
@@ -54,7 +54,6 @@ I believe in continuous learning and enjoy solving technical challenges through 
 |--------------|--------|
 | Cisco Junior Cybersecurity Analyst Career Path | In Progress |
 | CompTIA Security+ | Planned |
-| ISC2 Certified in Cybersecurity (CC) | Planned |
 
 ---
 
@@ -69,11 +68,11 @@ These projects demonstrate my practical networking knowledge while completing th
 - Assigned IPv4 addresses
 - Verified connectivity using ICMP
 
-### ✔ VLAN Configuration
-- Created VLANs
-- Assigned switch ports
-- Configured trunk links
-- Verified VLAN communication
+### ✔ Troubleshoot Default Gateway Issues
+- Verify local network connections
+- Identify connection issues
+- Configured the correct IP information
+- Verified the connection between all devices on the network
 
 ### ✔ Static Routing
 - Configured routers
