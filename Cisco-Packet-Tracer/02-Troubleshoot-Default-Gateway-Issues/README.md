@@ -7,7 +7,9 @@ Part 2: Implement, Verify, and Document Solutions.
 -----------------------------------------------------------
 
   #  Resources
-  ![Addresses Table](Images/Address-table.png)
+  ![Addresses Table](Images/01-Address-table.png)
+  ![Network connections](Images/02-Network-connections.png)
+  
 
   
 
