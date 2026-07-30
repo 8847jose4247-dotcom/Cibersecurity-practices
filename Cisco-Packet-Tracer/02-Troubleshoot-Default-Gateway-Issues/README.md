@@ -38,6 +38,12 @@ On this time only the connection from PC1 to PC2 and connection from PC1 to PC4 
 So I update the IP information with the correct IP address according to the Addresses table information. 
 
   ![IP address updated PC1](Images/04-IP-address-PC1.png)
+
+Also ping PC2 from PC1 to check the connection is now working properly
+
+  ![Ping PC2 from PC1](Images/05-Ping-PC2.png)
+
+
   
 
 
